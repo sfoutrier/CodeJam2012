@@ -376,7 +376,9 @@ namespace HallOfMirrors
                         x += signDirX;
                     }
                 }
-                dump(x, y);
+
+                if(dump != null)
+                    dump(x, y);
             }
 
             return true;
