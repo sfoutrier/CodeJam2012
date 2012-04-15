@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakingInTongues", "SpeakingInTongues\SpeakingInTongues.csproj", "{931D6361-A96E-4157-A073-9EA59BAC5B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DancingWithTheGooglers", "DancingWithTheGooglers\DancingWithTheGooglers.csproj", "{D39E58D2-C550-4859-8CC0-AAFA2281ECAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecycledNumbers", "RecycledNumbers\RecycledNumbers.csproj", "{CD6DD1C3-DDEF-4D7B-A447-094ACDA7D7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HallOfMirrors", "HallOfMirrors\HallOfMirrors.csproj", "{8AADE29A-5499-4253-A39A-F78A7491B9F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931D6361-A96E-4157-A073-9EA59BAC5B45}.Debug|x86.ActiveCfg = Debug|x86
+		{931D6361-A96E-4157-A073-9EA59BAC5B45}.Debug|x86.Build.0 = Debug|x86
+		{931D6361-A96E-4157-A073-9EA59BAC5B45}.Release|x86.ActiveCfg = Release|x86
+		{931D6361-A96E-4157-A073-9EA59BAC5B45}.Release|x86.Build.0 = Release|x86
+		{D39E58D2-C550-4859-8CC0-AAFA2281ECAA}.Debug|x86.ActiveCfg = Debug|x86
+		{D39E58D2-C550-4859-8CC0-AAFA2281ECAA}.Debug|x86.Build.0 = Debug|x86
+		{D39E58D2-C550-4859-8CC0-AAFA2281ECAA}.Release|x86.ActiveCfg = Release|x86
+		{D39E58D2-C550-4859-8CC0-AAFA2281ECAA}.Release|x86.Build.0 = Release|x86
+		{CD6DD1C3-DDEF-4D7B-A447-094ACDA7D7B5}.Debug|x86.ActiveCfg = Debug|x86
+		{CD6DD1C3-DDEF-4D7B-A447-094ACDA7D7B5}.Debug|x86.Build.0 = Debug|x86
+		{CD6DD1C3-DDEF-4D7B-A447-094ACDA7D7B5}.Release|x86.ActiveCfg = Release|x86
+		{CD6DD1C3-DDEF-4D7B-A447-094ACDA7D7B5}.Release|x86.Build.0 = Release|x86
+		{8AADE29A-5499-4253-A39A-F78A7491B9F4}.Debug|x86.ActiveCfg = Debug|x86
+		{8AADE29A-5499-4253-A39A-F78A7491B9F4}.Debug|x86.Build.0 = Debug|x86
+		{8AADE29A-5499-4253-A39A-F78A7491B9F4}.Release|x86.ActiveCfg = Release|x86
+		{8AADE29A-5499-4253-A39A-F78A7491B9F4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
