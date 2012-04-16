@@ -1,3 +1,6 @@
 See http://code.google.com/codejam/ for description of the problems
 
+Each program must be run in the folder containing the file "input.txt" which is the input file.
+It outputs the result in "output.txt" in the same folder.
+
 Hall of Mirrors works on the 6 test cases described in the problem, but doesn't work on big datasets
