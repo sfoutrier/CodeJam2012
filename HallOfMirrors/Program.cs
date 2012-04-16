@@ -143,9 +143,9 @@ namespace HallOfMirrors
             if (Distance > 1)
             {
                 yield return new Vector(1, 1);
-                for (int i = 1; 1 + i * i < Distance * Distance; ++i)
+                for (int i = 1; 1 + i * i <= Distance * Distance; ++i)
                 {
-                    for (int j = 1; j < i && j * j + i * i < Distance * Distance; ++j)
+                    for (int j = 1; j < i && j * j + i * i <= Distance * Distance; ++j)
                     {
                         // I don't want cast several time the same direction with a constant mutilplier
                         if (Pgcd(i, j) == 1)
